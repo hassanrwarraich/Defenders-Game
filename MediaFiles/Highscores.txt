@@ -1,0 +1,15 @@
+1
+Ugur
+7000
+2
+Samir
+5500
+3
+Hasan
+5000
+4
+Ahmet
+5000
+5
+Qarone
+4500
